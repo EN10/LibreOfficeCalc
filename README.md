@@ -9,3 +9,9 @@ Install:
 Run:
 
 	. calc
+
+Error:
+
+	X IO Error
+
+Right click `Terminal` and select `Shut down Linux (Beta)`
