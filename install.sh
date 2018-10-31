@@ -1,6 +1,6 @@
 apt-get install libdbus-glib-1-2
 wget -c http://download.documentfoundation.org/libreoffice/stable/6.1.2/deb/x86_64/LibreOffice_6.1.2_Linux_x86-64_deb.tar.gz
-tar xvzf LibreOffice_6.1.2_Linux_x86-64_deb.tar.gz
+tar xvzf LibreOffice_6.1.2_Linux_x86-64_deb.tar.gz/DEBS
 cd LibreOffice_6.1.2.1_Linux_x86-64_deb
 sudo dpkg -i \
 libreoffice6.1-ure_6.1.2.1-1_amd64.deb \
